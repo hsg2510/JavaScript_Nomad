@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: tomato;
+    margin-left: 40px;
+}
+
+.active {
+    background-color: #4CAF50;
+}
